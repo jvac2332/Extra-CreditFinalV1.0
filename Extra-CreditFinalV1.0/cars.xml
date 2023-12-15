@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="17.0.8.1" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="Car">
+    <void property="make">
+     <string>Lexus</string>
+    </void>
+    <void property="model">
+     <string>is350</string>
+    </void>
+    <void property="year">
+     <int>2022</int>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>
